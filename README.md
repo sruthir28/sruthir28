@@ -4,7 +4,7 @@
 
 ## Work  💻
 - **Dec 2024 - Present**: Product Manager @ [Arctera](http://arctera.io/); Former Chief of Staff to CEO
-- **July 2023 - Dec 2024**: Product Strategy @ [Veritas] (https://www.veritas.com/)
+- **July 2023 - Dec 2024**: Product Strategy @ [Veritas](https://www.veritas.com/)
 - **Sep 2017 - Jun 2023**: Engagement Manager @ [McKinsey & Company](https://www.mckinsey.com/)
 - **May 2016 - Aug 2016**: MBA Data Science Intern @ [Microsoft](https://www.microsoft.com/)
 - **Jul 2011 - May 2015**: Systems Analyst @ [Fidelity Investments](https://www.fidelity.com/)
